@@ -1,0 +1,22 @@
+Software requirement specification for  bus reseravtion system
+
+Introduction:-
+The website is to help the users to reserve their seat  in  the bus to travel for their desired location
+Scope:-
+⦁	They can book their seat
+⦁	Can travel for their location
+⦁	Can easily access the website
+
+
+User Interface:-
+
+The travellers can book their desired seat. 
+And travel without any problems.
+Refunds are available
+
+
+
+Functional requirements:-
+⦁	They should give their personal details such as name, phn no, etc
+⦁	They should select their location from where to where.
+⦁	They should apply for the date.
